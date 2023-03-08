@@ -1,5 +1,5 @@
 ####
-## Machine learning / NumPy & pandas
+## NumPy & pandas
 ####
 #### ► [01_ml_numpy1_230307]
 - numpy 기반 데이터 타입인 ndarray 생성 실습
