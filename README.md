@@ -7,6 +7,7 @@
 #### ► [01_ml_numpy_n_pandas]
 - 01_ml_numpy1_230307
 - 02_ml_numpy2_230308
+- 03_ml_numpy3_230309
 ####
 ## Reference
 - [Inflearn] 파이썬 머신러닝 완벽 가이드
